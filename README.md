@@ -2,7 +2,8 @@
 
 A modern web application that helps users analyze product information and fruit freshness using AI-powered image recognition.
 
-![Product & Freshness Analyzer](https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?auto=format&fit=crop&q=80&w=2000)
+![image](https://github.com/user-attachments/assets/9e7243f7-fcad-4fe9-8e1e-2dd284b2ca16)
+
 
 ## Features
 
