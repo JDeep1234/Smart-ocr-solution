@@ -1,4 +1,4 @@
-# Product & Freshness Analyzer
+# Smart Vision Technology for Product Quality Control Using AI and OCR & Freshness Analyzer
 
 A modern web application that helps users analyze product information and fruit freshness using AI-powered image recognition.
 
